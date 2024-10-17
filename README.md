@@ -2,7 +2,7 @@
 
 This is a Sketch template that can be used to easily create localized screenshots for the App Store.
 
-Currently it's set up to embed screenshots in a 6.9" device frame (iPhone 16 Pro Max), but it can be easily extended for other form factors as well.
+Currently it's set up to embed screenshots in the official 6.9" device frame from Apple (iPhone 16 Pro Max), but it can be easily extended for other form factors as well.
 Feel free to extend it and open PRs. :)
 
 ## Preview
